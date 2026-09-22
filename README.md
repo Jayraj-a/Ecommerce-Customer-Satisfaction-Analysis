@@ -40,6 +40,8 @@ Six CSV files from the Olist Brazilian E-Commerce public dataset (Kaggle):
 
 **Coverage:** Sep 2016 – Aug 2018 · **Delivered orders analysed:** 96,470
 
+**Dataset Source:** [Olist Brazilian E-Commerce Public Dataset – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ---
 
 ## Setup
